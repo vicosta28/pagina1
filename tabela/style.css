@@ -1,8 +1,60 @@
+h1{
+    color: rgb(221, 53, 118);
+}
+
+table{
+    width: 100px;
+}
+
 th{
     height: 30px;
     width: 200px;
+    border: 10px double rgb(202, 69, 131);
+    color: rgb(238, 94, 142);
+    text-align: center;
+    font-family: cursive;
 }
 
 td{
-    height: 100px;
+    height: 70px;
+    background-color: rgb(250, 132, 171);
+    border: 3px solid rgb(202, 69, 131);
+    text-align: center;
+    font-family: cursive;
+}
+
+.rede{
+    background-color: rgb(179, 23, 119);
+}
+
+.filo{
+    background-color: rgb(207, 55, 131);
+}
+
+.port{
+    background-color: rgb(241, 143, 176);
+}
+
+.mat{
+    background-color: rgb(201, 43, 130);
+}
+
+.hist{
+    background-color: rgb(228, 84, 163);
+}
+
+.qui{
+    background-color: rgb(187, 17, 88);
+}
+
+.auto{
+    background-color: rgb(252, 93, 146);
+}
+
+.bio{
+    background-color: rgb(221, 21, 104);
+}
+
+.manut{
+    background-color: rgb(141, 6, 69);
 }
